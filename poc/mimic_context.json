@@ -1,0 +1,271 @@
+[
+  {
+    "hadm_id": "142345",
+    "subject_id": "10006",
+    "admit_date": "2164-10-23",
+    "discharge_date": "2164-11-01",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "SEPSIS",
+    "insurance": "Medicare",
+    "ethnicity": "BLACK/AFRICAN AMERICAN",
+    "icd9_codes": [
+      "99591",
+      "99662",
+      "5672",
+      "40391",
+      "42731",
+      "4280"
+    ],
+    "medications": [
+      {
+        "drug": "Sodium Chloride 0.9%  Flush",
+        "dose": "Syringe",
+        "route": "IV"
+      },
+      {
+        "drug": "Glipizide",
+        "dose": "10MG TAB",
+        "route": "PO"
+      },
+      {
+        "drug": "Metoprolol",
+        "dose": "50mg Tab",
+        "route": "PO"
+      },
+      {
+        "drug": "Sevelamer",
+        "dose": "800mg Tab",
+        "route": "PO"
+      },
+      {
+        "drug": "Insulin",
+        "dose": "Dummy Pkg for POE pump and PHA SS ordering",
+        "route": "SC"
+      },
+      {
+        "drug": "Pantoprazole",
+        "dose": "40mg Tab",
+        "route": "PO"
+      }
+    ]
+  },
+  {
+    "hadm_id": "105331",
+    "subject_id": "10011",
+    "admit_date": "2126-08-14",
+    "discharge_date": "2126-08-28",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "HEPATITIS B",
+    "insurance": "Private",
+    "ethnicity": "UNKNOWN/NOT SPECIFIED",
+    "icd9_codes": [
+      "570",
+      "07030",
+      "07054",
+      "30401",
+      "2875",
+      "2760"
+    ],
+    "medications": []
+  },
+  {
+    "hadm_id": "165520",
+    "subject_id": "10013",
+    "admit_date": "2125-10-04",
+    "discharge_date": "2125-10-07",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "SEPSIS",
+    "insurance": "Medicare",
+    "ethnicity": "UNKNOWN/NOT SPECIFIED",
+    "icd9_codes": [
+      "0389",
+      "41071",
+      "78551",
+      "486",
+      "42731",
+      "20280"
+    ],
+    "medications": [
+      {
+        "drug": "Furosemide",
+        "dose": "40MG/4ML VIAL",
+        "route": "IV"
+      },
+      {
+        "drug": "Azithromycin",
+        "dose": "250MG CAP",
+        "route": "PO"
+      },
+      {
+        "drug": "Azithromycin",
+        "dose": "250MG CAP",
+        "route": "PO"
+      },
+      {
+        "drug": "Acetaminophen",
+        "dose": "325MG TAB",
+        "route": "PO"
+      },
+      {
+        "drug": "Nitroglycerin SL",
+        "dose": "0.3MG SL TAB",
+        "route": "SL"
+      },
+      {
+        "drug": "Aspirin",
+        "dose": "325mg Tab",
+        "route": "PO"
+      }
+    ]
+  },
+  {
+    "hadm_id": "199207",
+    "subject_id": "10017",
+    "admit_date": "2149-05-26",
+    "discharge_date": "2149-06-03",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "HUMERAL FRACTURE",
+    "insurance": "Medicare",
+    "ethnicity": "WHITE",
+    "icd9_codes": [
+      "81201",
+      "4928",
+      "8028",
+      "8024",
+      "99812",
+      "41511"
+    ],
+    "medications": [
+      {
+        "drug": "Hydromorphone",
+        "dose": "2mg/mL Syringe",
+        "route": "SC"
+      },
+      {
+        "drug": "Hydromorphone",
+        "dose": "4mg/mL Syringe",
+        "route": "SC"
+      },
+      {
+        "drug": "Sodium Chloride 0.9%  Flush",
+        "dose": "Syringe",
+        "route": "IV"
+      },
+      {
+        "drug": "NIFEdipine CR",
+        "dose": "60mg CR Tablet",
+        "route": "PO"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dose": "20mg Tablet",
+        "route": "PO"
+      },
+      {
+        "drug": "Furosemide",
+        "dose": "20mg Tablet",
+        "route": "PO"
+      }
+    ]
+  },
+  {
+    "hadm_id": "177759",
+    "subject_id": "10019",
+    "admit_date": "2163-05-14",
+    "discharge_date": "2163-05-15",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "ALCOHOLIC HEPATITIS",
+    "insurance": "Medicare",
+    "ethnicity": "WHITE",
+    "icd9_codes": [
+      "0389",
+      "51881",
+      "5770",
+      "30390",
+      "5781",
+      "5845"
+    ],
+    "medications": [
+      {
+        "drug": "Propofol",
+        "dose": "1000mg/100mL Vial",
+        "route": "IV DRIP"
+      },
+      {
+        "drug": "Heparin Flush CVL  (100 units/ml)",
+        "dose": "100 Units/ml-5ml Syringe",
+        "route": "IV"
+      },
+      {
+        "drug": "Phytonadione",
+        "dose": "10mg/mL Amp",
+        "route": "SC"
+      },
+      {
+        "drug": "Albumin 25% (12.5gm)",
+        "dose": "25%-50mL",
+        "route": "IV"
+      },
+      {
+        "drug": "Dexamethasone",
+        "dose": "4mg/mL 1mL Vial",
+        "route": "IV"
+      },
+      {
+        "drug": "Calcium Gluconate",
+        "dose": "1g/10mL Vial",
+        "route": "IV"
+      }
+    ]
+  },
+  {
+    "hadm_id": "103770",
+    "subject_id": "10026",
+    "admit_date": "2195-05-17",
+    "discharge_date": "2195-05-24",
+    "admission_type": "EMERGENCY",
+    "primary_diagnosis": "STROKE/TIA",
+    "insurance": "Medicare",
+    "ethnicity": "WHITE",
+    "icd9_codes": [
+      "431",
+      "4010",
+      "5990",
+      "2761",
+      "V103",
+      "3569"
+    ],
+    "medications": [
+      {
+        "drug": "Metoprolol",
+        "dose": "5mg/5mL Vial",
+        "route": "IV"
+      },
+      {
+        "drug": "Enalaprilat",
+        "dose": "1.25 mg  / mL : 2 mL Vial",
+        "route": "IV"
+      },
+      {
+        "drug": "Famotidine",
+        "dose": "20mg Tablet",
+        "route": "PO"
+      },
+      {
+        "drug": "Metoprolol",
+        "dose": "25mg Tablet",
+        "route": "PO"
+      },
+      {
+        "drug": "Levothyroxine Sodium",
+        "dose": "175mcg Tablet",
+        "route": "PO"
+      },
+      {
+        "drug": "Lactulose",
+        "dose": "20g/30mL Cup",
+        "route": "PO"
+      }
+    ]
+  }
+]
