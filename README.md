@@ -5,6 +5,7 @@ A real-time clinical document intelligence demo built for a healthcare analytics
 ## Live Demo
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+Demo link:https://drive.google.com/file/d/1LCM8s3MOl375AkhLgrmN_9uxaJUg0pHK/view?usp=sharing
 
 ## What It Does
 
